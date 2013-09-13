@@ -3,6 +3,10 @@ KuromojiPerformanceTest
 
 Kuromoji Performance Test
 
+    $ git clone https://github.com/mkobayas/KuromojiPerformanceTest.git
+    $ cd KuromojiPerformanceTest
+    $ mvn
+
 
 #Result:
 
