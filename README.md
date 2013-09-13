@@ -13,6 +13,9 @@ Kuromoji Performance Test
 [i7-3930K @ 3.20GHz (6core 12Threads)]  
 307,760 tokenize/second
 
+[i7-3770 CPU @ 3.40GHz (4core 8Threads)]  
+216,933 tokenize/second
+
 [i7-2640M CPU @ 2.80GHz (2core 4Threads)]  
 86,961 tokenize/second
 
