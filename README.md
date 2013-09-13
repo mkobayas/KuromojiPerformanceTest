@@ -19,6 +19,9 @@ Kuromoji Performance Test
 [i7-2640M CPU @ 2.80GHz (2core 4Threads)]  
 86,961 tokenize/second
 
+[i7-640LM cpu @ 2.13GHz(2core 4Threads)]  
+56,021 tokenize/second
+
 #Test data
 
     static String[] inputs = {  
